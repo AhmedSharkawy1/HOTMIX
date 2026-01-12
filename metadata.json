@@ -1,0 +1,9 @@
+{
+  "name": "مطعم هوت ميكس - القائمة الرقمية",
+  "short_name": "Hot Mix Menu",
+  "description": "قائمة طعام مطعم هوت ميكس بالبدرشين - بيتزا، كريب، مشويات، وسندوتشات. اطلب الآن واستمتع بأشهى المأكولات.",
+  "theme_color": "#f36f21",
+  "background_color": "#050505",
+  "display": "standalone",
+  "requestFramePermissions": []
+}
