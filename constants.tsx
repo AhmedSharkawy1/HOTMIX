@@ -78,7 +78,7 @@ export const MENU_DATA: MenuSection[] = [
     id: 'crepes',
     title: 'كريب',
     emoji: '🌯',
-    image: 'https://images.unsplash.com/photo-1510629954389-c1e0da47d414?q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=800',
     items: [
       { name: 'شاورما فراخ', prices: ['70'] },
       { name: 'شيش طاووق', prices: ['70'] },
